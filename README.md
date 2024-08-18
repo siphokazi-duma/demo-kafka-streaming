@@ -1,7 +1,3 @@
-Here's a README description for a Spring Boot application named `demo-kafka-streaming`. This README provides an overview of Kafka, the functionality of the application, and how to use it.
-
----
-
 # `demo-kafka-streaming`
 
 ## Overview
