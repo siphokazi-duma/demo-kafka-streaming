@@ -84,7 +84,7 @@ The application exposes a REST API endpoint for producing messages into Kafka to
    ```bash
    curl -X POST http://localhost:8081/produce \
    -H "Content-Type: application/json" \
-   -d '{"topic": "my-topic", "message": "Hello, Kafka!"}'
+   -d '{"topic": "input-topic", "message": "Hello, Kafka!"}'
    ```
 
 2. **Consume Messages**:
